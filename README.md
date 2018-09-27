@@ -8,3 +8,4 @@
 - In the folder it was cloned into (if you have installed vs-code) type "code ." to open vs-code
 - In the folder it was cloned into type npm start, to run the project via Webpacks development server
 - npm run build - to build project
+- INSTALL NODE FETCH: npm install node-fetch
